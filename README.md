@@ -68,4 +68,6 @@ Open http://localhost:5173.
 
 ## Screenshots
 
-Add screenshots of the app in `docs/screenshots/` and link them here.
+Tasks can be added, edited, completed (struck through) and deleted, all through the backend API.
+
+![Task list](docs/screenshots/app.png)
