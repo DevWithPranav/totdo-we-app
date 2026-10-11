@@ -68,6 +68,14 @@ Open http://localhost:5173.
 
 ## Screenshots
 
-Tasks can be added, edited, completed (struck through) and deleted, all through the backend API.
+### 1. Add a task
 
-![Task list](docs/screenshots/app.png)
+![Add a task](docs/screenshots/1_add_task.png)
+
+### 2. Complete a task
+
+![Complete a task](docs/screenshots/2_complete_task.png)
+
+### 3. Delete a task
+
+![Delete a task](docs/screenshots/3_delete_task.png)
